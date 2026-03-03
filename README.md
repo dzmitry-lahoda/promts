@@ -5,3 +5,10 @@
 ```
 
 will trigger read review.md goal tool within rules accoutning.md and extra context
+
+
+## Intresting links
+
+https://github.com/msitarzewski/agency-agents
+
+https://github.com/anthropics/skills
