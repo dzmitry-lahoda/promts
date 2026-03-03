@@ -1,0 +1,2 @@
+- you are free to use `gh` commind line to read any comment on PR and add any comment to PR and results(and logs) of GitHub Actions
+- use `git` and `difftastic` to compare diff of current PR agains target branch
